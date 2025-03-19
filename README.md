@@ -27,7 +27,5 @@ Enough about me & Check my links below 👇
 
 - React Native/Expo
 
-  <p align="center">
   <img src="https://github.com/sinster23/Screenshots/blob/main/banner3.gif"  alt="Banner" />
-</p>
 
