@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" width="800" alt="Banner" />
+  <img src="[https://your-banner-link.com/banner.png](https://github.com/sinster23/Screenshots/blob/main/ai-generated-8674485_1280.png)" width="800" alt="Banner" />
 </p>
 
 # Software Developer
