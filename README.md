@@ -14,7 +14,7 @@ Check my links below 👇
 
 ---
 
-**Web-dev :** 
+💻 **Web-dev :** 
 
 🎨 **Front**  
 - React, TypeScript, JavaScript  
@@ -25,7 +25,7 @@ Check my links below 👇
 - MongoDB, PostgreSQL  
 - Appwrite, Cloudinary  
 
-**Mobile(Cross Platform)**  
+📱 **Mobile(Cross Platform)**  
 
 - React Native/Expo  
 
