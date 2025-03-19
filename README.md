@@ -23,7 +23,7 @@ Enough about me & check my links below 👇
 - MongoDB, PostgreSQL  
 - Appwrite, Cloudinary  
 
-📱 **Mobile(Cross Platform)**  
+📱 **App-dev(Cross Platform)**  
 
 - React Native/Expo
 
