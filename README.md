@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sinster23/Screenshots/blob/main/ai-generated-8674485_1280.png" height="500" alt="Banner" />
+  <img src="https://github.com/sinster23/Screenshots/blob/main/ai-generated-8674485_1280.png"  width="700"  alt="Banner" />
 </p>
 
 # Software Developer
@@ -10,14 +10,14 @@ Enough about me and
 Check my links below 👇
 
 ⚡ [LeetCode Profile](https://leetcode.com/u/Sinster)  
-✉️ [Send me an Email](upayandutta204@gmail.com)
+✉️ [Send me an Email](mailto:upayandutta204@gmail.com)
 
 ---
 
 💻 **Web-dev :** 
 
 🎨 **Front**  
-- React, TypeScript, JavaScript  
+- React, JavaScript , Typescript 
 - Tailwind, shadcn/ui, Bootstrap  
 
 🛠️ **Back**  
