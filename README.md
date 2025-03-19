@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sinster23/Screenshots/blob/main/banner2.gif"  width="700"  alt="Banner" />
+  <img src="https://github.com/sinster23/Screenshots/blob/main/banner2.gif"  alt="Banner" />
 </p>
 
 # Software Developer
