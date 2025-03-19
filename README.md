@@ -5,7 +5,7 @@
 # Software Developer
 
 Hi, I'm **Upayan**! I am proficient in developing user-friendly websites using **React** and **Node.js**, and building mobile apps with **React Native**.
-Enough about me & Check my links below 👇
+Enough about me & check my links below 👇
 
 ⚡ [LeetCode Profile](https://leetcode.com/u/Sinster)  
 ✉️ [Send me an Email](mailto:upayandutta204@gmail.com)
