@@ -9,12 +9,13 @@ Enough about me and
 
 Check my links below 👇
 
-🟧 [LeetCode Profile](https://leetcode.com/u/Sinster)  
+⚡ [LeetCode Profile](https://leetcode.com/u/Sinster)  
 ✉️ [Send me an Email](upayandutta204@gmail.com)
 
 ---
 
 **Web-dev :** 
+
 🎨 **Front**  
 - React, TypeScript, JavaScript  
 - Tailwind, shadcn/ui, Bootstrap  
@@ -25,5 +26,6 @@ Check my links below 👇
 - Appwrite, Cloudinary  
 
 **Mobile(Cross Platform)**  
+
 - React Native/Expo  
 
