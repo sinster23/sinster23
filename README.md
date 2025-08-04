@@ -1,33 +1,41 @@
 <p align="center">
-  <img src="https://github.com/sinster23/Screenshots/blob/main/banner2.gif"  alt="Banner" />
+  <img src="https://github.com/sinster23/Screenshots/blob/main/banner2.gif" alt="Banner" />
 </p>
 
-# Software Developer
+# Software Developer | Data Analyst
 
-Hi, I'm **Upayan**! I am proficient in developing user-friendly websites using **React** and **Node.js**, and building mobile apps with **React Native**.
-Enough about me & check my links below 👇
+Hi, I'm **Upayan**! I build sleek web apps with **React**, scalable backends with **Node.js**, and cross-platform mobile apps with **React Native**.  
+I'm also exploring the world of **Data Analysis** using **Python**, **Excel**, **Power BI**, and **SQL** to uncover insights from data.  
+Enough about me — check my links below 👇
 
-⚡ [LeetCode Profile](https://leetcode.com/u/Sinster)  
+🔗 [Portfolio Website](https://my-portfolio-jade-eight-67.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/upayan-dutta-564977320/)  
 ✉️ [Send me an Email](mailto:upayandutta204@gmail.com)
 
 ---
 
-💻 **Web-dev :** 
+💻 **Web Development:**  
 
-🎨 **Front**  
-- React, JavaScript , Typescript 
-- Tailwind, shadcn/ui, Bootstrap  
+🎨 **Frontend**  
+- React, JavaScript, TypeScript  
+- Tailwind CSS, shadcn/ui, Bootstrap  
 
-🛠️ **Back**  
+🛠️ **Backend**  
 - Node.js, Express  
 - MongoDB, PostgreSQL  
 - Appwrite, Cloudinary  
 
-📱 **App-dev(Cross Platform):**  
+📱 **Mobile App Development:**  
+- React Native / Expo  
 
-- React Native/Expo
+📊 **Data Analysis:**  
+- Python (Pandas, Matplotlib, Seaborn)  
+- Excel  
+- Power BI  
+- SQL  
 
- ---
- 
-  <img src="https://github.com/sinster23/Screenshots/blob/main/banner3.gif"  alt="Banner" />
+---
 
+<p align="center">
+  <img src="https://github.com/sinster23/Screenshots/blob/main/banner3.gif" alt="Banner" />
+</p>
