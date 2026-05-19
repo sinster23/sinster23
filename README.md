@@ -8,7 +8,7 @@ Hi, I'm **Upayan**! I build sleek web apps with **React**, scalable backends wit
 I'm also exploring the world of **Data Analysis** using **Python**, **Excel**, **Power BI**, and **SQL** to uncover insights from data.  
 Enough about me — check my links below 👇
 
-🔗 [Portfolio Website](https://my-portfolio-jade-eight-67.vercel.app/)  
+🔗 [Portfolio Website](https://upayan.is-a.dev/)  
 💼 [LinkedIn](https://www.linkedin.com/in/upayan-dutta-564977320/)  
 ✉️ [Send me an Email](mailto:upayandutta204@gmail.com)
 
